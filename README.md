@@ -1,2 +1,2 @@
-# exercicios-estruturas-de-repetição
-Exercicios sobre Estruturas de Repetição em Java (While, Do-While e For)
+### EXERCICIOS ARRAYS E ESTRUTURAS DE REPETIÇÃO EM JAVA
+Exercicios sobre Arrays e Estruturas de Repetição em Java (While, Do-While e For)
